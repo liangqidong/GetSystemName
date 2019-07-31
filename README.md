@@ -1,6 +1,7 @@
-´Ë¹¤³ÌÊµÏÖµÄÊÇ»ñÈ¡windowsÏµÍ³°æ±¾µÄ¹¦ÄÜ£»
-ÆäÖĞ£ºGetSystemName.h¡¢GetSystemName.cppÀàµÄÉùÃ÷ºÍÊµÏÖ£»Source.cppÎª²âÊÔ´úÂë£»
-ÔÚ´ËGetSystemNameÀàÖĞ£¬¿ÉÒÔ»ñÈ¡£ºMicrosoft Windows 8.1¡¢Microsoft Windows 10¡¢Microsoft Windows NT 4.0¡¢Microsoft Windows 95¡¢Microsoft Windows 98
-Microsoft Windows Me¡¢Microsoft Windows 2000¡¢Microsoft Windows XP¡¢Microsoft Windows XP Professional X64 Edition¡¢Microsoft Windows Server 2003¡¢Microsoft Windows Server 2003 R2¡¢Microsoft Windows Vista¡¢Microsoft Windows Server 2008¡¢Microsoft Windows Server 2008 R2¡¢Microsoft Windows 7¡¢Microsoft Windows 8¡¢Microsoft Windows Server 2012£»
+æ­¤å·¥ç¨‹ä½¿ç”¨VS2015 å®ç°çš„æ˜¯è·å–windowsç³»ç»Ÿç‰ˆæœ¬çš„åŠŸèƒ½ï¼›
+å…¶ä¸­ï¼šGetSystemName.hã€GetSystemName.cppç±»çš„å£°æ˜å’Œå®ç°ï¼›Source.cppä¸ºæµ‹è¯•ä»£ç ï¼›
+åœ¨æ­¤GetSystemNameç±»ä¸­ï¼Œå¯ä»¥è·å–ï¼šMicrosoft Windows 8.1ã€Microsoft Windows 10ã€Microsoft Windows NT 4.0ã€Microsoft Windows 95ã€Microsoft Windows 98
+Microsoft Windows Meã€Microsoft Windows 2000ã€Microsoft Windows XPã€Microsoft Windows XP Professional X64 Editionã€Microsoft Windows Server 2003ã€Microsoft Windows Server 2003 R2ã€Microsoft Windows Vistaã€Microsoft Windows Server 2008ã€Microsoft Windows Server 2008 R2ã€Microsoft Windows 7ã€Microsoft Windows 8ã€Microsoft Windows Server 2012ï¼›
  
- ÔÚGetSystemNameÖĞµÄGetWindowsName³ÉÔ±º¯ÊıÖĞ»ñÈ¡ÏµÍ³Ãû×Ö¡£
+ åœ¨GetSystemNameä¸­çš„GetWindowsNameæˆå‘˜å‡½æ•°ä¸­è·å–ç³»ç»Ÿåå­—ã€‚
+ 
